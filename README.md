@@ -61,7 +61,8 @@ This project is built using:
 
 
 # SINOP
-<img src="assets/Icon.png" alt="SINOP App Icon" width="128" />
+<img src="assets/Icon.png" alt="SINOP App Icon" width="512"/>
+
 
 
 
