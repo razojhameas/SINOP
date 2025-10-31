@@ -61,7 +61,8 @@ This project is built using:
 
 
 # SINOP
-![App Icon](assets/icon.png)
+![App Icon](assets/Icon.png)
+
 
 
 
